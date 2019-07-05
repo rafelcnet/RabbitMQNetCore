@@ -31,5 +31,5 @@ dotnet restore
 
 Las instrucciones completas y explicación del tutorial vienen en la liga anterior.
 
-
+Se ejecuta cada aplicación de consola por separado, usando dotnet run o desde Visual Studio, desde la consola web se pueden monitorear los mensajes.
 
