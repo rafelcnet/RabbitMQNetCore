@@ -1,0 +1,11 @@
+D:\Proyectos\Docker\Rabbit\Receive\bin\Debug\netcoreapp2.2\Receive.deps.json
+D:\Proyectos\Docker\Rabbit\Receive\bin\Debug\netcoreapp2.2\Receive.runtimeconfig.json
+D:\Proyectos\Docker\Rabbit\Receive\bin\Debug\netcoreapp2.2\Receive.runtimeconfig.dev.json
+D:\Proyectos\Docker\Rabbit\Receive\bin\Debug\netcoreapp2.2\Receive.dll
+D:\Proyectos\Docker\Rabbit\Receive\bin\Debug\netcoreapp2.2\Receive.pdb
+D:\Proyectos\Docker\Rabbit\Receive\obj\Debug\netcoreapp2.2\Receive.csproj.CoreCompileInputs.cache
+D:\Proyectos\Docker\Rabbit\Receive\obj\Debug\netcoreapp2.2\Receive.AssemblyInfoInputs.cache
+D:\Proyectos\Docker\Rabbit\Receive\obj\Debug\netcoreapp2.2\Receive.AssemblyInfo.cs
+D:\Proyectos\Docker\Rabbit\Receive\obj\Debug\netcoreapp2.2\Receive.dll
+D:\Proyectos\Docker\Rabbit\Receive\obj\Debug\netcoreapp2.2\Receive.pdb
+D:\proyectos\docker\Rabbit\Receive\obj\Debug\netcoreapp2.2\Receive.csprojAssemblyReference.cache

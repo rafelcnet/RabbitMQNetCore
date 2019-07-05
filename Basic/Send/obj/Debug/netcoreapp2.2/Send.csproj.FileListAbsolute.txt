@@ -1,0 +1,11 @@
+D:\Proyectos\Docker\Rabbit\Send\bin\Debug\netcoreapp2.2\Send.deps.json
+D:\Proyectos\Docker\Rabbit\Send\bin\Debug\netcoreapp2.2\Send.runtimeconfig.json
+D:\Proyectos\Docker\Rabbit\Send\bin\Debug\netcoreapp2.2\Send.runtimeconfig.dev.json
+D:\Proyectos\Docker\Rabbit\Send\bin\Debug\netcoreapp2.2\Send.dll
+D:\Proyectos\Docker\Rabbit\Send\bin\Debug\netcoreapp2.2\Send.pdb
+D:\Proyectos\Docker\Rabbit\Send\obj\Debug\netcoreapp2.2\Send.csprojAssemblyReference.cache
+D:\Proyectos\Docker\Rabbit\Send\obj\Debug\netcoreapp2.2\Send.csproj.CoreCompileInputs.cache
+D:\Proyectos\Docker\Rabbit\Send\obj\Debug\netcoreapp2.2\Send.AssemblyInfoInputs.cache
+D:\Proyectos\Docker\Rabbit\Send\obj\Debug\netcoreapp2.2\Send.AssemblyInfo.cs
+D:\Proyectos\Docker\Rabbit\Send\obj\Debug\netcoreapp2.2\Send.dll
+D:\Proyectos\Docker\Rabbit\Send\obj\Debug\netcoreapp2.2\Send.pdb
