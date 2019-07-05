@@ -1,6 +1,6 @@
 Ejemplos de RabbitMQ con Netcore y contenedores
 
-1. BasicSample.
+1. BasicSample (carpeta Basic).
 
 Basado en el tutorial de RabbitMQ y NetCore:
 https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html 
