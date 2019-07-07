@@ -70,4 +70,4 @@ Sigo revisando esa parte, otro problema que me he encontrado es que no siempre l
 
 Actualizaré este archivo cuando resuelva los errores.
 
-
+Ya que llegue a este punto creo que debi buscar uno un poco mas sencillo, el cual es el ejemplo 3
