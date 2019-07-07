@@ -1,17 +1,24 @@
+## Introduccion
+
 Este ejemplo me pareció muy completo, lo elegí como segunda opción porque contiene los siguientes elementos:
-Contenedores debuggeables con VSTudio Code
 
-Utiliza ms-sql server en linux
+* Contenedores debuggeables con VSTudio Code
 
-Incluye docker compose y multicontainer
+* Utiliza ms-sql server en linux
 
-Utiliza Redis para caching y MassTransit como message bus que trabaja con rabbitmq
+* Incluye docker compose y multicontainer
 
-Usa kitematic para poder administrar los contenedores desde la PC
+* Utiliza Redis para caching y MassTransit como message bus que trabaja con rabbitmq
+
+* Usa kitematic para poder administrar los contenedores desde la PC
+
+## Autor
 
 El ejemplo se basa en el siguiente blog:
 
 https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.net-core-and-docker-in-visual-studio-code 
+
+## Uso
 
 Tuve que realizar unos ajustes:
 
@@ -51,11 +58,13 @@ Después de aplicar a un puesto la tabla correspondiente se actualiza:
 
 ![alt text](https://raw.githubusercontent.com/rafelcnet/RabbitMQNetCore/master/ApplicantsAndJobs/images/mq7.PNG)
 
-Así sse ven los mensajes cuando llegan a RabbitMQ:
+Así se ven los mensajes cuando llegan a RabbitMQ:
 
 ![alt text](https://raw.githubusercontent.com/rafelcnet/RabbitMQNetCore/master/ApplicantsAndJobs/images/mq8.PNG)
 
 Desafortunadamente no termina la ejecución correctamente, no se realiza la verificación de la aplicación y la página web presenta un error.
+
+## Estatus 
 
 Sigo revisando esa parte, otro problema que me he encontrado es que no siempre las API´s se conectan al contenedor de RabbitMQ, debo insisitr varias veces.
 
