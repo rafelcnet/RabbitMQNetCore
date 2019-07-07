@@ -1,4 +1,4 @@
-## Introduccion
+## Introducción
 
 Este ejemplo me pareció muy completo, lo elegí como segunda opción porque contiene los siguientes elementos:
 
@@ -20,7 +20,7 @@ https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.ne
 
 ## Uso
 
-El blog original trae las instrucciones precisas, eol codigo en mi repo se puede uasr tal cual, pero hay que tener el contenedor de RabbitMQ ejecutandose, o descomentar la parte respectiva en el archivo docker-compose.yml.
+El blog original trae las instrucciones precisas, el código en mi repo se puede usar tal cual, pero hay que tener el contenedor de RabbitMQ ejecutándose, o descomentar la parte respectiva en el archivo docker-compose.yml.
 
 Tuve que realizar unos ajustes:
 
@@ -40,7 +40,7 @@ Ejecutando docker compose se pueden observar los contenedores ejecutándose desd
 
 ![alt text](https://raw.githubusercontent.com/rafelcnet/RabbitMQNetCore/master/ApplicantsAndJobs/images/mq2.PNG)
 
-Desde VisualStudio Code se puede iniciar la aplicacion y debuggear en los contenedores, hay que copiar los archivos launch.json y tasks.json (yo los adecue de acuerdo a mi proyecto) en el folder .vscode de la solución, en el repo ya se encuentran.
+Desde VisualStudio Code se puede iniciar la aplicación y debuggear en los contenedores, hay que copiar los archivos launch.json y tasks.json (yo los adecue de acuerdo a mi proyecto) en el fólder .vscode de la solución, en el repo ya se encuentran.
 
 Una vez iniciando todas las aplicaciones en modo debug con VStudio Code, en la Consola de RabbitMQ se pueden observar las conexiones:
 
@@ -50,7 +50,7 @@ Con MS-SQLServer Management Studio es posible conectarse al contenedor de la BD 
 
 ![alt text](https://raw.githubusercontent.com/rafelcnet/RabbitMQNetCore/master/ApplicantsAndJobs/images/mq3.PNG)
 
-La aplicaicón Web se ve así:
+La aplicación Web se ve así:
 
 ![alt text](https://raw.githubusercontent.com/rafelcnet/RabbitMQNetCore/master/ApplicantsAndJobs/images/mq4.PNG)
 
@@ -68,8 +68,8 @@ Desafortunadamente no termina la ejecución correctamente, no se realiza la veri
 
 ## Estatus 
 
-Sigo revisando esa parte, otro problema que me he encontrado es que no siempre las API´s se conectan al contenedor de RabbitMQ, debo insisitr varias veces.
+Sigo revisando el error al aplicar a un puesto, otro problema que me he encontrado es que no siempre las API´s se conectan al contenedor de RabbitMQ, debo insistir varias veces.
 
 Actualizaré este archivo cuando resuelva los errores.
 
-Ya que llegue a este punto creo que debi buscar uno un poco mas sencillo, el cual es el ejemplo 3
+Ya que llegue a este punto creo que debi buscar uno un poco más sencillo, el cual será el ejemplo 3
