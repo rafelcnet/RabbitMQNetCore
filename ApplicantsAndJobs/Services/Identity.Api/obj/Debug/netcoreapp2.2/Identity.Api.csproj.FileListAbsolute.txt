@@ -1,0 +1,17 @@
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\bin\Debug\netcoreapp2.2\Identity.Api.deps.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\bin\Debug\netcoreapp2.2\Identity.Api.runtimeconfig.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\bin\Debug\netcoreapp2.2\Identity.Api.runtimeconfig.dev.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\bin\Debug\netcoreapp2.2\Identity.Api.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\bin\Debug\netcoreapp2.2\Identity.Api.pdb
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\bin\Debug\netcoreapp2.2\Events.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\bin\Debug\netcoreapp2.2\Events.pdb
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\obj\Debug\netcoreapp2.2\Identity.Api.csprojAssemblyReference.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\obj\Debug\netcoreapp2.2\Identity.Api.csproj.CoreCompileInputs.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\obj\Debug\netcoreapp2.2\Identity.Api.RazorAssemblyInfo.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\obj\Debug\netcoreapp2.2\Identity.Api.RazorAssemblyInfo.cs
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\obj\Debug\netcoreapp2.2\Identity.Api.AssemblyInfoInputs.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\obj\Debug\netcoreapp2.2\Identity.Api.AssemblyInfo.cs
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\obj\Debug\netcoreapp2.2\Identity.Api.RazorTargetAssemblyInfo.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\obj\Debug\netcoreapp2.2\Identity.Api.csproj.CopyComplete
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\obj\Debug\netcoreapp2.2\Identity.Api.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Identity.Api\obj\Debug\netcoreapp2.2\Identity.Api.pdb

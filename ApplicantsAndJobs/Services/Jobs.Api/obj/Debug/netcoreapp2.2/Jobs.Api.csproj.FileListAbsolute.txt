@@ -1,0 +1,17 @@
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\obj\Debug\netcoreapp2.2\Jobs.Api.csprojAssemblyReference.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\obj\Debug\netcoreapp2.2\Jobs.Api.csproj.CoreCompileInputs.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\obj\Debug\netcoreapp2.2\Jobs.Api.RazorAssemblyInfo.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\obj\Debug\netcoreapp2.2\Jobs.Api.RazorAssemblyInfo.cs
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\obj\Debug\netcoreapp2.2\Jobs.Api.AssemblyInfoInputs.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\obj\Debug\netcoreapp2.2\Jobs.Api.AssemblyInfo.cs
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\bin\Debug\netcoreapp2.2\Jobs.Api.deps.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\bin\Debug\netcoreapp2.2\Jobs.Api.runtimeconfig.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\bin\Debug\netcoreapp2.2\Jobs.Api.runtimeconfig.dev.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\bin\Debug\netcoreapp2.2\Jobs.Api.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\bin\Debug\netcoreapp2.2\Jobs.Api.pdb
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\bin\Debug\netcoreapp2.2\Events.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\bin\Debug\netcoreapp2.2\Events.pdb
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\obj\Debug\netcoreapp2.2\Jobs.Api.RazorTargetAssemblyInfo.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\obj\Debug\netcoreapp2.2\Jobs.Api.csproj.CopyComplete
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\obj\Debug\netcoreapp2.2\Jobs.Api.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Jobs.Api\obj\Debug\netcoreapp2.2\Jobs.Api.pdb

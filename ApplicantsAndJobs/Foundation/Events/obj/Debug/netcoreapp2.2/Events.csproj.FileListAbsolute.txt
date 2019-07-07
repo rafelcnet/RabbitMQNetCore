@@ -1,0 +1,9 @@
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Events\bin\Debug\netcoreapp2.2\Events.deps.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Events\bin\Debug\netcoreapp2.2\Events.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Events\bin\Debug\netcoreapp2.2\Events.pdb
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Events\obj\Debug\netcoreapp2.2\Events.csprojAssemblyReference.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Events\obj\Debug\netcoreapp2.2\Events.csproj.CoreCompileInputs.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Events\obj\Debug\netcoreapp2.2\Events.AssemblyInfoInputs.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Events\obj\Debug\netcoreapp2.2\Events.AssemblyInfo.cs
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Events\obj\Debug\netcoreapp2.2\Events.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Events\obj\Debug\netcoreapp2.2\Events.pdb

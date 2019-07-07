@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\services\\applicants.api\\applicants.api.csproj": {}
+  },
+  "projects": {
+    "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\Foundation\\Events\\Events.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\Foundation\\Events\\Events.csproj",
+        "projectName": "Events",
+        "projectPath": "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\Foundation\\Events\\Events.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\Foundation\\Events\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\services\\applicants.api\\applicants.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\services\\applicants.api\\applicants.api.csproj",
+        "projectName": "applicants.api",
+        "projectPath": "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\services\\applicants.api\\applicants.api.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\services\\applicants.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\Foundation\\Events\\Events.csproj": {
+                "projectPath": "D:\\Proyectos\\Docker\\Rabbit\\ApplicantsAndJobs\\Foundation\\Events\\Events.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.4, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[4.0.0.1334-develop, )"
+            },
+            "MassTransit.Autofac": {
+              "target": "Package",
+              "version": "[4.0.0.1334-develop, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[4.0.0.1334-develop, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Http\bin\Debug\netstandard2.0\Http.deps.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Http\bin\Debug\netstandard2.0\Http.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Http\bin\Debug\netstandard2.0\Http.pdb
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Http\obj\Debug\netstandard2.0\Http.csprojAssemblyReference.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Http\obj\Debug\netstandard2.0\Http.csproj.CoreCompileInputs.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Http\obj\Debug\netstandard2.0\Http.AssemblyInfoInputs.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Http\obj\Debug\netstandard2.0\Http.AssemblyInfo.cs
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Http\obj\Debug\netstandard2.0\Http.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\Foundation\Http\obj\Debug\netstandard2.0\Http.pdb

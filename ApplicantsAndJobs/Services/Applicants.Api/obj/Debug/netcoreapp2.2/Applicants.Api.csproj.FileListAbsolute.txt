@@ -1,0 +1,17 @@
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\obj\Debug\netcoreapp2.2\Applicants.Api.csprojAssemblyReference.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\obj\Debug\netcoreapp2.2\Applicants.Api.csproj.CoreCompileInputs.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\obj\Debug\netcoreapp2.2\Applicants.Api.RazorAssemblyInfo.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\obj\Debug\netcoreapp2.2\Applicants.Api.RazorAssemblyInfo.cs
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\obj\Debug\netcoreapp2.2\Applicants.Api.AssemblyInfoInputs.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\obj\Debug\netcoreapp2.2\Applicants.Api.AssemblyInfo.cs
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\bin\Debug\netcoreapp2.2\Applicants.Api.deps.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\bin\Debug\netcoreapp2.2\Applicants.Api.runtimeconfig.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\bin\Debug\netcoreapp2.2\Applicants.Api.runtimeconfig.dev.json
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\bin\Debug\netcoreapp2.2\Applicants.Api.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\bin\Debug\netcoreapp2.2\Applicants.Api.pdb
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\bin\Debug\netcoreapp2.2\Events.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\bin\Debug\netcoreapp2.2\Events.pdb
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\obj\Debug\netcoreapp2.2\Applicants.Api.RazorTargetAssemblyInfo.cache
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\obj\Debug\netcoreapp2.2\Applicants.Api.csproj.CopyComplete
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\obj\Debug\netcoreapp2.2\Applicants.Api.dll
+D:\proyectos\docker\Rabbit\ApplicantsAndJobs\services\Applicants.Api\obj\Debug\netcoreapp2.2\Applicants.Api.pdb
