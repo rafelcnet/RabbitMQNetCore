@@ -20,21 +20,23 @@ https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.ne
 
 ## Uso
 
+El blog original trae las instrucciones precisas, eol codigo en mi repo se puede uasr tal cual, pero hay que tener el contenedor de RabbitMQ ejecutandose, o descomentar la parte respectiva en el archivo docker-compose.yml.
+
 Tuve que realizar unos ajustes:
 
-Utilicé  Netcore 2.2
+* Utilicé  Netcore 2.2
 
-Ya tenía el rabbitmq del ejemplo basic, no lo incluí en el yml y tuve que cambiar las conexiones a rabbit (usuario y password, y el host)
+* Ya tenía el rabbitmq del ejemplo basic, no lo incluí en el yml y tuve que cambiar las conexiones a rabbit (usuario y password, y el host)
 
-La referencia a redis viene mal, no la incluye en el repo del autor, así que la incluí donde fuera necesario
+* La referencia a redis viene mal, no la incluye en el repo del autor, así que la incluí donde fuera necesario
 
-Para conectar con la ip del contenedor de RabbitMQ usé el comando:
+* Para conectar con la ip del contenedor de RabbitMQ usé el comando:
 
-docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}'  rcotest-rabbitmq
+  docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}'  rcotest-rabbitmq
 
-la segunda IP es la que se utiliza:  172.19.0.5 172.17.0.2
+  la segunda IP es la que se utiliza:  172.19.0.5 172.17.0.2
 
-Ejecutando docker compose se pueden observar los contenedores ejecutándose:
+Ejecutando docker compose se pueden observar los contenedores ejecutándose desde Kitematic:
 
 ![alt text](https://raw.githubusercontent.com/rafelcnet/RabbitMQNetCore/master/ApplicantsAndJobs/images/mq2.PNG)
 
