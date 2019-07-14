@@ -1,0 +1,8 @@
+﻿apiVersion: v1
+kind: Service
+metadata:
+  name: onlinestoreworker
+spec:
+  type: NodePort
+  selector:
+    app: onlinestoreworker

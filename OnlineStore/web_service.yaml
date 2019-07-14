@@ -1,0 +1,13 @@
+﻿apiVersion: v1
+kind: Service
+metadata:
+  name: onlinestoreweb
+spec:
+  type: NodePort
+  selector:
+    app: onlinestoreweb
+  ports:
+  - port: 8050
+    targetPort: 80
+    nodePort: 31150
+    protocol: TCP

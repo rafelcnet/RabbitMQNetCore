@@ -1,0 +1,11 @@
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/bin/Debug/netcoreapp2.2/OnlineStoreWorker.deps.json
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/bin/Debug/netcoreapp2.2/OnlineStoreWorker.runtimeconfig.json
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/bin/Debug/netcoreapp2.2/OnlineStoreWorker.runtimeconfig.dev.json
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/bin/Debug/netcoreapp2.2/OnlineStoreWorker.dll
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/bin/Debug/netcoreapp2.2/OnlineStoreWorker.pdb
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/obj/Debug/netcoreapp2.2/OnlineStoreWorker.csprojAssemblyReference.cache
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/obj/Debug/netcoreapp2.2/OnlineStoreWorker.csproj.CoreCompileInputs.cache
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/obj/Debug/netcoreapp2.2/OnlineStoreWorker.AssemblyInfoInputs.cache
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/obj/Debug/netcoreapp2.2/OnlineStoreWorker.AssemblyInfo.cs
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/obj/Debug/netcoreapp2.2/OnlineStoreWorker.dll
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWorker/obj/Debug/netcoreapp2.2/OnlineStoreWorker.pdb

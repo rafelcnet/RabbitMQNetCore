@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{97037957-254F-45D7-8FD2-CA573E20173E}|Default">
+  <MonoDevelop.Ide.ItemProperties.OnlineStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineStoreWebApi/Services/CustomerService.cs">
+    <Files>
+      <File FileName="OnlineStoreWebApi/Services/CustomerService.cs" Line="22" Column="10" />
+      <File FileName="OnlineStoreWebApi/Repositories/CustomerRepository.cs" Line="19" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineStore" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="OnlineStore" expanded="True" />
+            <Node name="OnlineStoreWebApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="CustomerService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

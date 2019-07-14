@@ -1,0 +1,14 @@
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/obj/Debug/netcoreapp2.2/OnlineStoreWebApi.csprojAssemblyReference.cache
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/obj/Debug/netcoreapp2.2/OnlineStoreWebApi.csproj.CoreCompileInputs.cache
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/obj/Debug/netcoreapp2.2/OnlineStoreWebApi.RazorAssemblyInfo.cache
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/obj/Debug/netcoreapp2.2/OnlineStoreWebApi.RazorAssemblyInfo.cs
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/obj/Debug/netcoreapp2.2/OnlineStoreWebApi.AssemblyInfoInputs.cache
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/obj/Debug/netcoreapp2.2/OnlineStoreWebApi.AssemblyInfo.cs
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/bin/Debug/netcoreapp2.2/OnlineStoreWebApi.deps.json
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/bin/Debug/netcoreapp2.2/OnlineStoreWebApi.runtimeconfig.json
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/bin/Debug/netcoreapp2.2/OnlineStoreWebApi.runtimeconfig.dev.json
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/bin/Debug/netcoreapp2.2/OnlineStoreWebApi.dll
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/bin/Debug/netcoreapp2.2/OnlineStoreWebApi.pdb
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/obj/Debug/netcoreapp2.2/OnlineStoreWebApi.RazorTargetAssemblyInfo.cache
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/obj/Debug/netcoreapp2.2/OnlineStoreWebApi.dll
+/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/obj/Debug/netcoreapp2.2/OnlineStoreWebApi.pdb

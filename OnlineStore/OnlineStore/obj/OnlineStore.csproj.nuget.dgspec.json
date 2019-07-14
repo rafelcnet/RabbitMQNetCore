@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStore/OnlineStore.csproj": {}
+  },
+  "projects": {
+    "/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStore/OnlineStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStore/OnlineStore.csproj",
+        "projectName": "OnlineStore",
+        "projectPath": "/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStore/OnlineStore.csproj",
+        "packagesPath": "/Users/rafaelc/.nuget/packages/",
+        "outputPath": "/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStore/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafaelc/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pemexti.pkgs.visualstudio.com/_packaging/PemexFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

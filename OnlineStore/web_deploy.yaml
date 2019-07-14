@@ -1,0 +1,19 @@
+﻿apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: onlinestoreweb
+spec:
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: onlinestoreweb
+    spec:
+      #hostNetwork: true
+      containers:
+        - image: "rafaelc/rpi-storeweb"
+          imagePullPolicy: Always
+          name: onlinestoreweb
+          ports:
+            - containerPort: 80
+              hostPort: 8050

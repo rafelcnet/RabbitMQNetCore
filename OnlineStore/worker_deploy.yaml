@@ -1,0 +1,30 @@
+﻿apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: onlinestoreworker
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: onlinestoreworker
+    spec:
+      containers:
+        - image: "rafaelc/rpi-storeworker"
+          imagePullPolicy: Always
+          name: onlinestoreworker
+          env:
+          - name: ASPNETCORE_ENVIRONMENT
+            value: "Container"
+          - name: ONLINE_STORE_DB_USERNAME
+            value: "store"
+          - name ONLINE_STORE_DB_PASSWORD
+            value: "password"
+          - name: ONLINE_STORE_DB_SERVER
+            value: "wetoMySQL"
+          - name: ONLINE_STORE_MQ_USERNAME
+            value: "rcotest"
+          - name: ONLINE_STORE_MQ_PASSWORD
+            value: "Test2019"
+          - name: ONLINE_STORE_MQ_SERVER
+            value: "rabbit-local"

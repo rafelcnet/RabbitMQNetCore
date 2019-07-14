@@ -1,0 +1,39 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStore", "OnlineStore\OnlineStore.csproj", "{97037957-254F-45D7-8FD2-CA573E20173E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStoreWebApi", "OnlineStoreWebApi\OnlineStoreWebApi.csproj", "{4CA51680-1F45-4B0C-84BD-024AE0F3B450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStoreWorker", "OnlineStoreWorker\OnlineStoreWorker.csproj", "{69CCD5AB-93B4-4AB2-AE40-68C5AFAD3BCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1843E976-5C07-4563-9C5C-99C64925783D}"
+	ProjectSection(SolutionItems) = preProject
+		worker_deploy.yaml = worker_deploy.yaml
+		worker_service.yaml = worker_service.yaml
+		api_service.yaml = api_service.yaml
+		api_deploy.yaml = api_deploy.yaml
+		web_deploy.yaml = web_deploy.yaml
+		web_service.yaml = web_service.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97037957-254F-45D7-8FD2-CA573E20173E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97037957-254F-45D7-8FD2-CA573E20173E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97037957-254F-45D7-8FD2-CA573E20173E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97037957-254F-45D7-8FD2-CA573E20173E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA51680-1F45-4B0C-84BD-024AE0F3B450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA51680-1F45-4B0C-84BD-024AE0F3B450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA51680-1F45-4B0C-84BD-024AE0F3B450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA51680-1F45-4B0C-84BD-024AE0F3B450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CCD5AB-93B4-4AB2-AE40-68C5AFAD3BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CCD5AB-93B4-4AB2-AE40-68C5AFAD3BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CCD5AB-93B4-4AB2-AE40-68C5AFAD3BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CCD5AB-93B4-4AB2-AE40-68C5AFAD3BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
