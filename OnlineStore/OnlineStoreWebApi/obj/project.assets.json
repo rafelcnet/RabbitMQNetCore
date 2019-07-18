@@ -12752,28 +12752,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/rafaelc/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/OnlineStoreWebApi.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Docker\\Rabbit\\OnlineStore\\OnlineStoreWebApi\\OnlineStoreWebApi.csproj",
       "projectName": "OnlineStoreWebApi",
-      "projectPath": "/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/OnlineStoreWebApi.csproj",
-      "packagesPath": "/Users/rafaelc/.nuget/packages/",
-      "outputPath": "/Users/rafaelc/Docker/OnlineStoreApp/OnlineStore/OnlineStoreWebApi/obj/",
+      "projectPath": "D:\\Proyectos\\Docker\\Rabbit\\OnlineStore\\OnlineStoreWebApi\\OnlineStoreWebApi.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "D:\\Proyectos\\Docker\\Rabbit\\OnlineStore\\OnlineStoreWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/rafaelc/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

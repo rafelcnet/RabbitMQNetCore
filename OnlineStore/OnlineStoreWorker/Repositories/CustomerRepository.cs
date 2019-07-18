@@ -17,7 +17,7 @@ namespace OnlineStoreWorker.Repositories
         {
             var onlineStoreDbUserName = "store"; // Environment.GetEnvironmentVariable("ONLINE_STORE_DB_USERNAME");
             var onlineStoreDbPassword = "password"; // Environment.GetEnvironmentVariable("ONLINE_STORE_DB_PASSWORD");
-            var onlineStoreDbServer = "wetoMySQL"; // Environment.GetEnvironmentVariable("ONLINE_STORE_DB_SERVER");
+            var onlineStoreDbServer = "192.168.0.105"; // Environment.GetEnvironmentVariable("ONLINE_STORE_DB_SERVER");
             var onLineStoreDbName = "OnlineStore";
 
             var connectionString = $"Server={onlineStoreDbServer};Database={onLineStoreDbName};Uid={onlineStoreDbUserName};Pwd={onlineStoreDbPassword};SSL Mode = None;charset=utf8";
@@ -29,7 +29,7 @@ namespace OnlineStoreWorker.Repositories
 
                 var count = connection.Execute(@"insert into Customers (FirstName, LastName,EmailAddress,NotifyMe) values (@FirstName, @LastName,@EmailAddress,@NotifyMe)",
                                                customer);
-                Console.WriteLine("Se inserto registro para: " + customer.FirstName);
+                Console.WriteLine("Se insertó registro para: " + customer.FirstName);
             }
             catch(Exception ex)
             {

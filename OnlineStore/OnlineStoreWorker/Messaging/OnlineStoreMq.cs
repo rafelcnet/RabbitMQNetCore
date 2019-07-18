@@ -51,6 +51,7 @@ namespace OnlineStoreWorker.Messaging
                     {
                         string message = Encoding.UTF8.GetString(result.Body);
                         var customer = JsonConvert.DeserializeObject<Customer>(message);
+                        Console.WriteLine("Lee mensaje del queue: " + message);
                         _customerRepository.Insert(customer);
                     }
 
